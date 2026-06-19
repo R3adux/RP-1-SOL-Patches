@@ -7,7 +7,7 @@ RP-1 - SOL Patches
 
     containes for now:
     
-    - KerBalloons_RP1.cfg
+    - KerBalloons_RP1.cfg         //Compatibility Patch for RP-1/RSS/SOL
 
 Installation:
 
