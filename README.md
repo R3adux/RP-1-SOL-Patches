@@ -15,7 +15,8 @@ Installation:
 
     Extract the RA folder into your KSP GameData directory.
 
-https://github.com/user-attachments/assets/7c277995-5d53-4512-b970-ba8a1efb5d72
+
+https://github.com/user-attachments/assets/38e09d8c-7a30-4ca1-a631-f5ba29805cd6
 
 <img width="1259" height="700" alt="pic1" src="https://github.com/user-attachments/assets/c48ace2e-249f-4f85-9d2b-9d1f1614f3bd" />
 
