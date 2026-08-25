@@ -1,10 +1,14 @@
 KerBalloons_RP1-patch & KCT-Resizer
+---------------
+
+[KerBalloons_RP1.zip](https://github.com/user-attachments/files/31438051/KerBalloons_RP1.zip)
 
     - KerBalloons_RP1.cfg         //Compatibility Patch for RP-1/RSS/SOL
 
 *final version, own mod in development*
 
 ------------------------
+[KCT-Resizer.zip](https://github.com/user-attachments/files/31438039/KCT-Resizer.zip)
 
 Adjusts the GUI heights of Kerbal Construction Time 
 (Integration and Combined lists) for better visibility.
